@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/pearl0304/react_study/static/css/main.69975970.css",
-    "main.js": "/pearl0304/react_study/static/js/main.3e92fa11.js",
-    "index.html": "/pearl0304/react_study/index.html",
-    "main.69975970.css.map": "/pearl0304/react_study/static/css/main.69975970.css.map",
-    "main.3e92fa11.js.map": "/pearl0304/react_study/static/js/main.3e92fa11.js.map"
+    "main.css": "/react_study/static/css/main.69975970.css",
+    "main.js": "/react_study/static/js/main.3e92fa11.js",
+    "index.html": "/react_study/index.html",
+    "main.69975970.css.map": "/react_study/static/css/main.69975970.css.map",
+    "main.3e92fa11.js.map": "/react_study/static/js/main.3e92fa11.js.map"
   },
   "entrypoints": [
     "static/css/main.69975970.css",
